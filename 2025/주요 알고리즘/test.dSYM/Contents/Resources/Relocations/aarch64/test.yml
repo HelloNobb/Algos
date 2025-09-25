@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/nobbkim/Documents/정글/ALGO/2025/주요 알고리즘/test"
+relocations:     []
+...
