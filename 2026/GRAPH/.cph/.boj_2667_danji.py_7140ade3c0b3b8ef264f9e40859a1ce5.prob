@@ -1,0 +1,1 @@
+{"name":"Local: boj_2667_danji","url":"/Users/nobbkim/Documents/정글/ALGO/2026/GRAPH/boj_2667_danji.py","tests":[{"id":1773808969978,"input":"7\n0110100\n0110101\n1110101\n0000111\n0100000\n0111110\n0111000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nobbkim/Documents/정글/ALGO/2026/GRAPH/boj_2667_danji.py","group":"local","local":true}
