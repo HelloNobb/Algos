@@ -1,0 +1,1 @@
+{"name":"Local: boj_2178_miro","url":"/Users/nobbkim/Documents/정글/ALGO/2026/GRAPH/boj_2178_miro.py","tests":[{"id":1772334494468,"input":"7 7\n1011111\n1110001\n1000001\n1000001\n1000001\n1000001\n1111111","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nobbkim/Documents/정글/ALGO/2026/GRAPH/boj_2178_miro.py","group":"local","local":true}
